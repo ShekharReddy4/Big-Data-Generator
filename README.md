@@ -1,4 +1,5 @@
 # Big-Data-Generator
+[![Coverage Status](https://coveralls.io/repos/github/ShekharReddy4/Big-Data-Generator/badge.svg?branch=master)](https://coveralls.io/github/ShekharReddy4/Big-Data-Generator?branch=master)
 
 			Big Data Generator
 
